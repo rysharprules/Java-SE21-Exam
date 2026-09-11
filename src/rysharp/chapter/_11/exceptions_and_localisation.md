@@ -31,5 +31,5 @@
 
 Date Completed:
 Minimum Score to Pass: 68% (34/50 in real exam)
-Correct: x out of 26
-Percentage: x%
+Correct: 12 out of 26
+Percentage: 46%
