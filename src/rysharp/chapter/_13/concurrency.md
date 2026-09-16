@@ -2,16 +2,16 @@
 
 | #  | Question Type/Description | My Answer | Actual Answer | Code Reference | Notes |
 |----|---------------------------|-----------|---------------|----------------|-------|
-| 1  |                           |           |               |                |       |
-| 2  |                           |           |               |                |       |
-| 3  |                           |           |               |                |       |
-| 4  |                           |           |               |                |       |
-| 5  |                           |           |               |                |       |
-| 6  |                           |           |               |                |       |
-| 7  |                           |           |               |                |       |
-| 8  |                           |           |               |                |       |
-| 9  |                           |           |               |                |       |
-| 10 |                           |           |               |                |       |
+| 1  | parallel stream           | df        |               |                |       |
+| 2  | locks                     | a         |               |                |       |
+| 3  | runnable/callable         | bcf       |               |                |       |
+| 4  | threads                   | c         |               |                |       |
+| 5  | atomic                    | c         |               |                |       |
+| 6  | parallel stream           | ce        |               |                |       |
+| 7  | concurrency               | d         |               |                |       |
+| 8  | threads                   | b         |               |                |       |
+| 9  | ExecutorService           | bd        |               |                |       |
+| 10 | concurrent collections    | e         |               |                |       |
 | 11 |                           |           |               |                |       |
 | 12 |                           |           |               |                |       |
 | 13 |                           |           |               |                |       |
@@ -28,12 +28,8 @@
 | 24 |                           |           |               |                |       |
 | 25 |                           |           |               |                |       |
 | 26 |                           |           |               |                |       |
-| 27 |                           |           |               |                |       |
-| 28 |                           |           |               |                |       |
-| 29 |                           |           |               |                |       |
-| 30 |                           |           |               |                |       |
 
 Date Completed:
 Minimum Score to Pass: 68% (34/50 in real exam)
-Correct: x out of 30
+Correct: x out of 26
 Percentage: x%
