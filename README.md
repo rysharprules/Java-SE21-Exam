@@ -1,4 +1,4 @@
-# Java-SE21-Exam
+# Java-SE25-Exam
 Notes to support the Oracle 1Z0-831 Java 25 SE Developer exam.
 
 <a href="https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830" ><img src="https://raw.githubusercontent.com/rysharprules/Java-SE8-Upgrade-Exam/master/ocp_logo.gif" /></a>
