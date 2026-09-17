@@ -1,4 +1,4 @@
-package rysharp.chapter._00;
+package rysharp.jdk21.base.chapter._00;
 
 import java.util.Collections;
 import java.util.SequencedMap;

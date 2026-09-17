@@ -1,4 +1,4 @@
-package rysharp.chapter._01;
+package rysharp.jdk21.base.chapter._01;
 
 public class Question16 {
 

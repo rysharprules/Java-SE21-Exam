@@ -1,4 +1,4 @@
-package rysharp.chapter._06;
+package rysharp.jdk21.base.chapter._06;
 
 class Person {
      static String name;

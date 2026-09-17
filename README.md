@@ -1,9 +1,12 @@
 # Java-SE21-Exam
-Notes to support the Oracle 1Z0-830 Java 21 SE Developer exam.
+Notes to support the Oracle 1Z0-831 Java 25 SE Developer exam.
 
 <a href="https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830" ><img src="https://raw.githubusercontent.com/rysharprules/Java-SE8-Upgrade-Exam/master/ocp_logo.gif" /></a>
 
-## Chapters
+## JDK 21 Base
+My base learning is from [OCP Oracle Certified Professional Java SE 21 Developer Study Guide: Exam 1z0-830](https://www.amazon.co.uk/Oracle-Certified-Professional-Developer-Study/dp/1394286619) via [O'Reilly](https://learning.oreilly.com/library/view/ocp-oracle-certified/9781394286614/).
+This breaks the syllabus into 14 chapters.
+### Chapters
 
 | Chapter | Link                                                                                            | Description                  |
 |---------|-------------------------------------------------------------------------------------------------|------------------------------|
@@ -21,3 +24,9 @@ Notes to support the Oracle 1Z0-830 Java 21 SE Developer exam.
 | 12      | [Modules](src/rysharp/chapter/_12/modules.md)                                                   | Java modules                 |
 | 13      | [Concurrency](src/rysharp/chapter/_13/concurrency.md)                                           | Threads, concurrency         |
 | 14      | [IO](src/rysharp/chapter/_14/io.md)                                                             | Input/Output                 |
+
+## JDK 25 Addendum
+An addendum for additions introduced across JDK 22–25 that show up in
+the 1Z0-831 exam objectives.
+
+[Initial page here](src/rysharp/jdk25/addendum/README.md)
